@@ -1,0 +1,42 @@
+8/10/2019 10:34:47 PM: jean__ - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/10/2019 10:34:48 PM: jean__ - Should be connected!
+8/10/2019 10:34:48 PM: jean__ - Joining channel: jean__
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv 001 jean__ :Welcome, GLHF!
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv 002 jean__ :Your host is tmi.twitch.tv
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv 003 jean__ :This server is rather new
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv 004 jean__ :-
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv 375 jean__ :-
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv 372 jean__ :You are in a maze of twisty passages, all alike.
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv 376 jean__ :>
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/10/2019 10:34:49 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/10/2019 10:34:49 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/10/2019 10:34:49 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/10/2019 10:34:49 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/10/2019 10:34:49 PM: jean__ - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #jean__
+8/10/2019 10:34:49 PM: jean__ - Received: :jean__.tmi.twitch.tv 353 jean__ = #jean__ :jean__
+8/10/2019 10:34:49 PM: jean__ - Received: :jean__.tmi.twitch.tv 366 jean__ #jean__ :End of /NAMES list
+8/10/2019 10:34:49 PM: jean__ - Finished channel joining queue.
+8/10/2019 10:34:49 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 10:34:49 PM: jean__ - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=38479494;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #jean__
+8/10/2019 10:34:49 PM: jean__ - Finished channel joining queue.
+8/10/2019 10:34:51 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=f6fce629-f117-463d-ae32-5f19df5a0522;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565487290579;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!game
+8/10/2019 10:34:52 PM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=7215e33d-8e26-4790-ade3-08a7587aaf0b;mod=1;room-id=38479494;subscriber=0;tmi-sent-ts=1565487290906;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #jean__ :@Jean__ -> jean__ is playing Grand Theft Auto: Vice City
+8/10/2019 10:34:52 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 10:35:01 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=8945ad1b-d298-49f7-9b18-815a3f83802a;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565487301032;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!game Grand Theft Auto IV
+8/10/2019 10:35:02 PM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=456b5436-abef-4edd-90a6-b33773bc1352;mod=1;room-id=38479494;subscriber=0;tmi-sent-ts=1565487301385;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #jean__ :@Jean__ -> The stream game has been updated to: Grand Theft Auto IV
+8/10/2019 10:35:02 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 10:35:16 PM: jean__ - Received: :nightbot!nightbot@nightbot.tmi.twitch.tv JOIN #jean__
+8/10/2019 10:35:18 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=a1636451-507f-482b-8e4e-c8ca94c6c774;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565487317822;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!game Grand Theft Auto: San Andreas
+8/10/2019 10:35:19 PM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=afa0afc7-1ef5-4c77-a9d5-094969df5857;mod=1;room-id=38479494;subscriber=0;tmi-sent-ts=1565487318169;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #jean__ :@Jean__ -> The stream game has been updated to: Grand Theft Auto: San Andreas
+8/10/2019 10:35:19 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 10:35:31 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=164abd85-cc26-4af2-b83c-b50919a62163;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565487330914;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!game Grand Theft Auto III
+8/10/2019 10:35:32 PM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=95a34384-b02f-450e-bc02-62dda4eb1f8f;mod=1;room-id=38479494;subscriber=0;tmi-sent-ts=1565487331219;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #jean__ :@Jean__ -> The stream game has been updated to: Grand Theft Auto III
+8/10/2019 10:35:32 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 10:36:08 PM: jean__ - Received: :tmi.twitch.tv HOSTTARGET #jean__ :beringelamilgrau 0
+8/10/2019 10:36:08 PM: jean__ - Received: @msg-id=host_on :tmi.twitch.tv NOTICE #jean__ :Now hosting BeringelaMilGrau.
+8/10/2019 10:38:04 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=6804f475-b23e-48ad-b20e-1e58b1cb2261;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565487484207;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!game test
+8/10/2019 10:38:05 PM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=a0d6b845-1395-4b15-a15f-1050fda75290;mod=1;room-id=38479494;subscriber=0;tmi-sent-ts=1565487485189;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #jean__ :@Jean__ -> The stream game has been updated to: test
+8/10/2019 10:38:06 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 10:38:13 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=49da91f4-4c29-4474-b673-539eb57a62a4;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565487492648;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!game

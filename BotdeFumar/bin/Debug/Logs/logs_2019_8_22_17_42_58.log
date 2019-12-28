@@ -1,0 +1,28 @@
+8/22/2019 5:42:58 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/22/2019 5:43:01 PM: botfumante - Should be connected!
+8/22/2019 5:43:01 PM: botfumante - Joining channel: jean__
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 5:43:02 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 5:43:02 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 5:43:02 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 5:43:02 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 5:43:02 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #jean__
+8/22/2019 5:43:02 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #jean__ :botfumante
+8/22/2019 5:43:02 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #jean__ :End of /NAMES list
+8/22/2019 5:43:02 PM: botfumante - Finished channel joining queue.
+8/22/2019 5:43:02 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/22/2019 5:43:02 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=38479494;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #jean__
+8/22/2019 5:43:03 PM: botfumante - Finished channel joining queue.
+8/22/2019 5:43:07 PM: botfumante - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=ebbda6c4-b12d-4d51-b60f-dcb3ebc642f7;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1566506585254;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!taskkill notepad.exe
+8/22/2019 5:43:12 PM: botfumante - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #jean__
+8/22/2019 5:43:12 PM: botfumante - Received: :nightbot!nightbot@nightbot.tmi.twitch.tv JOIN #jean__
+8/22/2019 5:43:16 PM: botfumante - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=a431eee9-e1f7-4409-8f00-b92b1a7faf66;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1566506595059;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!taskkill notepad.exe
+8/22/2019 5:43:46 PM: botfumante - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=31a1d7d2-6b91-4271-b95f-8fd7f57e5714;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1566506624587;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!taskkill obs64.exe

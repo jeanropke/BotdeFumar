@@ -1,0 +1,28 @@
+8/22/2019 9:20:56 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/22/2019 9:20:57 PM: botfumante - Should be connected!
+8/22/2019 9:20:57 PM: botfumante - Joining channel: beringelamilgrau
+8/22/2019 9:20:57 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/22/2019 9:20:57 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 9:20:58 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 9:20:58 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 9:20:58 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 9:20:58 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 9:20:58 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 9:20:58 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+8/22/2019 9:20:58 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+8/22/2019 9:20:58 PM: botfumante - Finished channel joining queue.
+8/22/2019 9:20:58 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/22/2019 9:20:58 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/22/2019 9:20:58 PM: botfumante - Finished channel joining queue.
+8/22/2019 9:20:59 PM: botfumante - Writing: USERNOTICE #beringelamilgrau
+8/22/2019 9:20:59 PM: botfumante - Received: :tmi.twitch.tv 421 botfumante USERNOTICE :Unknown command
+8/22/2019 9:20:59 PM: botfumante - Unaccounted for: :tmi.twitch.tv UNKNOWN botfumante USERNOTICE :Unknown command
+8/22/2019 9:21:01 PM: botfumante - Received: @badge-info=;badges=premium/1;color=;display-name=um_Fido;emotes=;flags=15-23:P.6/S.6;id=b00787b8-db7f-4248-ae8d-28206cce05f9;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566519661216;turbo=0;user-id=32573069;user-type= :um_fido!um_fido@um_fido.tmi.twitch.tv PRIVMSG #beringelamilgrau :hearthstone s? tem cuz?o peepoSip
+8/22/2019 9:21:05 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=425618:56-58,60-62;flags=;id=411404d1-29cb-46ff-a4d9-f03df4ae143c;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566519664945;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :e ta ERRADO isu!!! e pra aprende a nao joga GAMER BOSTA LUL LUL

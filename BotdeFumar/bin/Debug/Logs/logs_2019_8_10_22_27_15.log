@@ -1,0 +1,23 @@
+8/10/2019 10:27:15 PM: jean__ - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/10/2019 10:27:16 PM: jean__ - Should be connected!
+8/10/2019 10:27:16 PM: jean__ - Joining channel: jean__
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv 001 jean__ :Welcome, GLHF!
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv 002 jean__ :Your host is tmi.twitch.tv
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv 003 jean__ :This server is rather new
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv 004 jean__ :-
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv 375 jean__ :-
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv 372 jean__ :You are in a maze of twisty passages, all alike.
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv 376 jean__ :>
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/10/2019 10:27:17 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/10/2019 10:27:17 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/10/2019 10:27:17 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/10/2019 10:27:17 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/10/2019 10:27:17 PM: jean__ - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #jean__
+8/10/2019 10:27:17 PM: jean__ - Received: :jean__.tmi.twitch.tv 353 jean__ = #jean__ :jean__
+8/10/2019 10:27:17 PM: jean__ - Received: :jean__.tmi.twitch.tv 366 jean__ #jean__ :End of /NAMES list
+8/10/2019 10:27:17 PM: jean__ - Finished channel joining queue.
+8/10/2019 10:27:17 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 10:27:17 PM: jean__ - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=38479494;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #jean__
+8/10/2019 10:27:17 PM: jean__ - Finished channel joining queue.

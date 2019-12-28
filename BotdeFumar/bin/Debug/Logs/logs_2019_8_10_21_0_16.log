@@ -1,0 +1,38 @@
+8/10/2019 9:00:16 PM: jean__ - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/10/2019 9:00:17 PM: jean__ - Should be connected!
+8/10/2019 9:00:17 PM: jean__ - Joining channel: jean__
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv 001 jean__ :Welcome, GLHF!
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv 002 jean__ :Your host is tmi.twitch.tv
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv 003 jean__ :This server is rather new
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv 004 jean__ :-
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv 375 jean__ :-
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv 372 jean__ :You are in a maze of twisty passages, all alike.
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv 376 jean__ :>
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/10/2019 9:00:17 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/10/2019 9:00:17 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/10/2019 9:00:17 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/10/2019 9:00:18 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/10/2019 9:00:18 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/10/2019 9:00:18 PM: jean__ - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #jean__
+8/10/2019 9:00:18 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #jean__
+8/10/2019 9:00:18 PM: jean__ - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=38479494;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #jean__
+8/10/2019 9:00:18 PM: jean__ - Received: :jean__.tmi.twitch.tv 353 jean__ = #jean__ :jean__ nightbot
+8/10/2019 9:00:18 PM: jean__ - Received: :jean__.tmi.twitch.tv 366 jean__ #jean__ :End of /NAMES list
+8/10/2019 9:00:18 PM: jean__ - Finished channel joining queue.
+8/10/2019 9:00:18 PM: jean__ - Finished channel joining queue.
+8/10/2019 9:00:21 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=bf935435-d9e1-4748-bd94-936b8e7915e5;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481620908;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!!
+8/10/2019 9:00:26 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=ba33f768-114c-4edc-bc97-4c6d94eee0d0;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481626287;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!!
+8/10/2019 9:00:29 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=f28bb681-cd57-433d-a53a-03244ff90177;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481629408;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!tiro
+8/10/2019 9:00:30 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=fa43d9b0-9c5f-4179-8910-6b301cf7fe84;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481630304;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!tiro
+8/10/2019 9:00:31 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=4e3eaa5d-8560-47f1-92ef-ada63216efc2;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481631369;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!tiro
+8/10/2019 9:00:32 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=13caeb73-f07f-438b-889e-1a823cfb2412;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481632197;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!tiro
+8/10/2019 9:00:45 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=123b02af-086c-45ad-b294-4e0f52530ed8;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481645489;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:46 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=8f39156f-46fc-4ee4-8e89-27284c4c340d;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481646265;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:46 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=1bec825a-a37b-4e61-855d-f89bfd0d0433;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481646557;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:47 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=d238b8dc-a3a3-4b58-9e28-78da12ec7580;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481646776;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:47 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=973bc579-c778-4666-a310-cbcf7759396e;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481646966;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:47 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=dd08039a-05b4-4d7c-b490-69fc0f43076f;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481647149;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:47 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=df427f81-c911-4583-b3a8-238bd3839483;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481647301;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:48 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=94e2465c-15b1-45e9-9fc5-8ffd9b4363b3;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481647706;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote
+8/10/2019 9:00:48 PM: jean__ - Received: @badge-info=;badges=broadcaster/1,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=d81441db-a9ce-41e0-9daa-d491f1becca1;mod=0;room-id=38479494;subscriber=0;tmi-sent-ts=1565481647876;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #jean__ :!chicote

@@ -1,0 +1,58 @@
+8/2/2019 5:56:05 PM: jean__ - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/2/2019 5:56:06 PM: jean__ - Should be connected!
+8/2/2019 5:56:06 PM: jean__ - Joining channel: beringelamilgrau
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv 001 jean__ :Welcome, GLHF!
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv 002 jean__ :Your host is tmi.twitch.tv
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv 003 jean__ :This server is rather new
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv 004 jean__ :-
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv 375 jean__ :-
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv 372 jean__ :You are in a maze of twisty passages, all alike.
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv 376 jean__ :>
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/2/2019 5:56:07 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/2/2019 5:56:07 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/2/2019 5:56:07 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/2/2019 5:56:07 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/2/2019 5:56:07 PM: jean__ - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:56:07 PM: jean__ - Received: :jean__.tmi.twitch.tv 353 jean__ = #beringelamilgrau :jean__
+8/2/2019 5:56:07 PM: jean__ - Received: :jean__.tmi.twitch.tv 366 jean__ #beringelamilgrau :End of /NAMES list
+8/2/2019 5:56:07 PM: jean__ - Finished channel joining queue.
+8/2/2019 5:56:07 PM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/2/2019 5:56:07 PM: jean__ - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/2/2019 5:56:07 PM: jean__ - Finished channel joining queue.
+8/2/2019 5:58:39 PM: jean__ - Received: :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :skinnyseahorse!skinnyseahorse@skinnyseahorse.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :hostmeraffle!hostmeraffle@hostmeraffle.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :angeloflight!angeloflight@angeloflight.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :s1faka!s1faka@s1faka.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :slocool!slocool@slocool.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :nightbot!nightbot@nightbot.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :electricallongboard!electricallongboard@electricallongboard.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :jobi_essen!jobi_essen@jobi_essen.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :rbruno018!rbruno018@rbruno018.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :guillapre!guillapre@guillapre.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/2/2019 5:58:39 PM: jean__ - Received: @badge-info=;badges=moderator/1;color=#38CC8F;display-name=Montee_Waffle;emotes=;flags=;id=68fe59b2-d3c1-4654-a0f8-985df754d4fb;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1564779448006;turbo=0;user-id=148551409;user-type=mod :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv PRIVMSG #beringelamilgrau :o controle dele que buga
+8/2/2019 5:58:39 PM: jean__ - Received: @badge-info=;badges=moderator/1;color=#38CC8F;display-name=Montee_Waffle;emotes=;flags=;id=a80b9c2b-7c40-4c33-963b-1a21f04a4fb6;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1564779452206;turbo=0;user-id=148551409;user-type=mod :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv PRIVMSG #beringelamilgrau :ai ele reclama toda hora
+8/2/2019 5:58:40 PM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=ce9430a7-fd9c-4eca-ae2c-e6c16bf864a4;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779454491;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsOkayMan
+8/2/2019 5:58:40 PM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=17368a62-b809-4f6d-ba4b-c06d0c331c1a;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779478601;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :criei um bot que divide os copypastas em 125 letres e divide onde tem espa?os HACKERMANS
+8/2/2019 5:59:05 PM: jean__ - Received: @badge-info=subscriber/1;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=10d58466-2710-4c52-ae59-347da5dae76b;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779544045;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :vou liberar o copypaste HACKERMANS
+8/2/2019 5:59:07 PM: jean__ - Received: @badge-info=subscriber/1;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=6770fa9d-0dca-4614-b9e7-e786a28d9b60;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779546004;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :!!
+8/2/2019 5:59:09 PM: jean__ - Received: @badge-info=;badges=;color=;display-name=BotFumante;emotes=;flags=69-74:,79-87:;id=a4d4751a-5f7c-4000-ab53-03b4a7037fbc;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1564779548140;turbo=0;user-id=446644398;user-type= :botfumante!botfumante@botfumante.tmi.twitch.tv PRIVMSG #beringelamilgrau :Voc? j? transmitiu por 1 hora e 46 minutos, nesse tempo, poderia ter fumado 10 cigarros. peepoSmoke
+8/2/2019 5:59:28 PM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=4880893c-1e6a-4c79-921b-64709cf32320;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779567211;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :nao deu 30 minutos FeelsMan
+8/2/2019 6:00:29 PM: jean__ - Received: @badge-info=;badges=moderator/1;color=#38CC8F;display-name=Montee_Waffle;emotes=;flags=0-6:P.6/S.6;id=1efea156-d777-48ae-894b-876fd0ae6702;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1564779627804;turbo=0;user-id=148551409;user-type=mod :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv PRIVMSG #beringelamilgrau :caralho
+8/2/2019 6:00:34 PM: jean__ - Received: @badge-info=;badges=moderator/1;color=#38CC8F;display-name=Montee_Waffle;emotes=;flags=4-10:P.6;id=3dc4a70a-b00c-4218-864e-f38d97b8d329;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1564779633351;turbo=0;user-id=148551409;user-type=mod :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv PRIVMSG #beringelamilgrau :nem fodendo jean
+8/2/2019 6:00:44 PM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=97b2ecfb-876d-40cc-bd5e-524b445cf42a;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779642372;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :HACKERMANS
+8/2/2019 6:00:46 PM: jean__ - Received: @badge-info=subscriber/1;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=68a4258d-d1ff-4275-a6ba-2315b4469bb2;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779644806;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+8/2/2019 6:01:06 PM: jean__ - Received: PING :tmi.twitch.tv
+8/2/2019 6:01:06 PM: jean__ - Writing: PONG
+8/2/2019 6:04:21 PM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=b7dd3b01-849d-47b9-a099-2b62f1cd0c44;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779859423;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :qual ? o tempo entre as mensagens pra nao tomar timeout? monkaHmm
+8/2/2019 6:04:50 PM: jean__ - Received: @badge-info=subscriber/1;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=ce122c38-6102-4f8b-a4b8-c9b21fc4c5f3;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564779888368;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :!zerado
+8/2/2019 6:04:50 PM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=fa81baec-bd91-4d78-8dc1-dc3634a3009b;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1564779888660;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #beringelamilgrau :J? zeramos 10 jogos nessa live, segura ai nossa carteirinha gamer! peepoSmart
+8/2/2019 6:05:13 PM: jean__ - Received: PING :tmi.twitch.tv
+8/2/2019 6:05:13 PM: jean__ - Writing: PONG

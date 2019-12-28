@@ -1,0 +1,23 @@
+8/23/2019 8:20:58 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/23/2019 8:20:59 PM: botfumante - Should be connected!
+8/23/2019 8:20:59 PM: botfumante - Joining channel: beringelamilgrau
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 8:21:00 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 8:21:00 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 8:21:00 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 8:21:00 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 8:21:00 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 8:21:00 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+8/23/2019 8:21:00 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+8/23/2019 8:21:00 PM: botfumante - Finished channel joining queue.
+8/23/2019 8:21:00 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/23/2019 8:21:00 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/23/2019 8:21:00 PM: botfumante - Finished channel joining queue.

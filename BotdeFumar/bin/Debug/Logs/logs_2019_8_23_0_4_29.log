@@ -1,0 +1,45 @@
+8/23/2019 12:04:29 AM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/23/2019 12:04:30 AM: botfumante - Should be connected!
+8/23/2019 12:04:30 AM: botfumante - Joining channel: beringelamilgrau
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 12:04:31 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 12:04:31 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 12:04:31 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 12:04:31 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 12:04:31 AM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:31 AM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+8/23/2019 12:04:31 AM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+8/23/2019 12:04:31 AM: botfumante - Finished channel joining queue.
+8/23/2019 12:04:31 AM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/23/2019 12:04:31 AM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/23/2019 12:04:32 AM: botfumante - Finished channel joining queue.
+8/23/2019 12:04:33 AM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=7-12:S.6;id=b4e4b672-4abf-4950-a906-acae1ab4211d;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566529473332;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price Hentai Puzzle
+8/23/2019 12:04:46 AM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=25:28-32;flags=;id=4e1eede3-dfb0-4222-8639-304d38527869;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566529486167;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :esse MINECRAFT ta diferenta Kappa
+8/23/2019 12:04:47 AM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=74f88fe5-95ae-44a3-9209-008f0f710be6;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566529486579;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :o bot s? nao ta respondendo FeelsMan
+8/23/2019 12:04:49 AM: botfumante - Received: :gabrigode!gabrigode@gabrigode.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :electricallongboard!electricallongboard@electricallongboard.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :don_torelli!don_torelli@don_torelli.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :lucaesan!lucaesan@lucaesan.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :rbruno018!rbruno018@rbruno018.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :winsock!winsock@winsock.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :ddanniell!ddanniell@ddanniell.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :hostmeraffle!hostmeraffle@hostmeraffle.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:04:49 AM: botfumante - Received: :leafjat!leafjat@leafjat.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:05:02 AM: botfumante - Received: @badge-info=;badges=premium/1;color=#3AC6D0;display-name=Gabrigode;emotes=;flags=;id=789f6d1e-f76b-455e-a3cd-fc16a3665f56;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566529501644;turbo=0;user-id=125402779;user-type= :gabrigode!gabrigode@gabrigode.tmi.twitch.tv PRIVMSG #beringelamilgrau :Jean t? com um milh?o de cartinhas no Steam lordsD
+8/23/2019 12:05:09 AM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=6e8fa04e-5240-4260-b4f1-6ba1ea976261;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566529509479;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+8/23/2019 12:05:20 AM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=bdf8facd-a672-46fc-a6cc-d97359ac6b72;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566529519989;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :desculpa monte PepeHandsE

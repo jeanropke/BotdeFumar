@@ -1,0 +1,24 @@
+8/4/2019 6:59:20 AM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/4/2019 6:59:21 AM: botfumante - Should be connected!
+8/4/2019 6:59:21 AM: botfumante - Joining channel: beringelamilgrau
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/4/2019 6:59:21 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/4/2019 6:59:21 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/4/2019 6:59:21 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/4/2019 6:59:21 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/4/2019 6:59:21 AM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/4/2019 6:59:21 AM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/4/2019 6:59:22 AM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/4/2019 6:59:22 AM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :michelle_rezende streamlabs xatang beringelamilgrau jean__ p0lizei_ montee_waffle feuerwehr maycke25 electricallongboard slocool tonyxzero n3td3v lurxx commanderroot guinnyn themalkavianx winsock nightbot botfumante
+8/4/2019 6:59:22 AM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+8/4/2019 6:59:22 AM: botfumante - Finished channel joining queue.
+8/4/2019 6:59:22 AM: botfumante - Finished channel joining queue.
+8/4/2019 6:59:27 AM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
