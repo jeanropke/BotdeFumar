@@ -1,0 +1,29 @@
+8/4/2019 3:07:01 AM: jean__ - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/4/2019 3:07:02 AM: jean__ - Should be connected!
+8/4/2019 3:07:02 AM: jean__ - Joining channel: beringelamilgrau
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv 001 jean__ :Welcome, GLHF!
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv 002 jean__ :Your host is tmi.twitch.tv
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv 003 jean__ :This server is rather new
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv 004 jean__ :-
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv 375 jean__ :-
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv 372 jean__ :You are in a maze of twisty passages, all alike.
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv 376 jean__ :>
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/4/2019 3:07:02 AM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/4/2019 3:07:02 AM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/4/2019 3:07:02 AM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/4/2019 3:07:03 AM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/4/2019 3:07:03 AM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/4/2019 3:07:03 AM: jean__ - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #beringelamilgrau
+8/4/2019 3:07:03 AM: jean__ - Received: :jean__.tmi.twitch.tv 353 jean__ = #beringelamilgrau :jean__
+8/4/2019 3:07:03 AM: jean__ - Received: :jean__.tmi.twitch.tv 366 jean__ #beringelamilgrau :End of /NAMES list
+8/4/2019 3:07:03 AM: jean__ - Finished channel joining queue.
+8/4/2019 3:07:03 AM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/4/2019 3:07:03 AM: jean__ - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/4/2019 3:07:03 AM: jean__ - Received: :tmi.twitch.tv HOSTTARGET #beringelamilgrau :totoro -
+8/4/2019 3:07:03 AM: jean__ - Received: @msg-id=host_on :tmi.twitch.tv NOTICE #beringelamilgrau :Now hosting totoro.
+8/4/2019 3:07:03 AM: jean__ - Finished channel joining queue.
+8/4/2019 3:07:20 AM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=54ca4d88-3b0f-4bbb-8f82-3eac36ebff6e;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564898839087;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :salve
+8/4/2019 3:07:20 AM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472;mod=0;subscriber=1;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/4/2019 3:07:20 AM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=9-13:P.6/S.0;id=c49bea54-abfe-404c-a2df-59e43b10ec24;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1564898839759;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #beringelamilgrau :Que man? porra de salve!
+8/4/2019 3:07:24 AM: jean__ - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=00a49a33-2a94-41eb-a49e-b352efab2577;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564898843725;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :Pepega

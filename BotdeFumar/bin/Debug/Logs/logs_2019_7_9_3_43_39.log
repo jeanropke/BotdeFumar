@@ -1,0 +1,32 @@
+2019-07-09 3:43:39 AM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+2019-07-09 3:43:40 AM: botfumante - Should be connected!
+2019-07-09 3:43:41 AM: botfumante - Joining channel: beringelamilgrau
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+2019-07-09 3:43:41 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+2019-07-09 3:43:41 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+2019-07-09 3:43:41 AM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+2019-07-09 3:43:41 AM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+2019-07-09 3:43:41 AM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+2019-07-09 3:43:41 AM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+2019-07-09 3:43:41 AM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+2019-07-09 3:43:42 AM: botfumante - Finished channel joining queue.
+2019-07-09 3:43:42 AM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :llukaoo apenasmaisumbr commanderroot sagakazama bobatron3009 willkdj baronvonhappy fractalvortex chapolin_palmeirense minikiddoo matheuszeon nyddhog64 gabriellnewgate danny_foxy pabespiga arckmad narutodigdin marukard marcelovictor maria_renata pzero6 nemesiszumbizada anotherttvviewer krauz22 jean__ furiloo celleslima vmcorrea duckreaper beringelamilgrau allaboutchoice angeloflight nobytes01 wilbo007 donvito256
+2019-07-09 3:43:42 AM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :killua1900 teyyd quackclube umjogadorchamadorond gluttaojr bismarckcarvalho pexb razmodan gilsao121 cyrros sinnerjin tyboor gpt00per seikensou snatcherfox b0n4tt0 rkserikawa kalardelicious apenaschris lbreezel godemo pandarilh0 dward0 ddanniell denjinfelipe lurxx guillapre calibrelordal jacques_loui5 orafamatos botfumante rbruno018 batman_do_mato_grosso commandobr danihell1988 itsvodoo niboy17 cresmu atizuuu
+2019-07-09 3:43:42 AM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :brunosampacf madafoquer montee_waffle danravenous deividaragao tyrantt103 gladosxcake malebouja4 nightbot thiagowvf luizkodek
+2019-07-09 3:43:42 AM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+2019-07-09 3:43:42 AM: botfumante - Finished channel joining queue.
+2019-07-09 3:43:42 AM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+2019-07-09 3:43:47 AM: botfumante - Received: :tmi.twitch.tv HOSTTARGET #beringelamilgrau :themalkavianx 64
+2019-07-09 3:43:47 AM: botfumante - Received: @msg-id=host_on :tmi.twitch.tv NOTICE #beringelamilgrau :Now hosting themalkavianx.
+2019-07-09 3:44:06 AM: botfumante - Received: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+2019-07-09 3:44:06 AM: botfumante - Unaccounted for: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+2019-07-09 3:44:42 AM: botfumante - Received: :calibrelordal!calibrelordal@calibrelordal.tmi.twitch.tv PART #beringelamilgrau
+2019-07-09 3:45:05 AM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau

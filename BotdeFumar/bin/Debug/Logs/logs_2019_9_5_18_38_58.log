@@ -1,0 +1,195 @@
+9/5/2019 6:38:58 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+9/5/2019 6:38:59 PM: botfumante - Should be connected!
+9/5/2019 6:38:59 PM: botfumante - Joining channel: beringelamilgrau
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+9/5/2019 6:39:00 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+9/5/2019 6:39:00 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+9/5/2019 6:39:00 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+9/5/2019 6:39:00 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+9/5/2019 6:39:00 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:00 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+9/5/2019 6:39:00 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+9/5/2019 6:39:00 PM: botfumante - Finished channel joining queue.
+9/5/2019 6:39:00 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0,300432485;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+9/5/2019 6:39:00 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+9/5/2019 6:39:00 PM: botfumante - Finished channel joining queue.
+9/5/2019 6:39:40 PM: botfumante - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :rubecks!rubecks@rubecks.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :p0lizei_!p0lizei_@p0lizei_.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :teyyd!teyyd@teyyd.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :guillapre!guillapre@guillapre.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :gladosxcake!gladosxcake@gladosxcake.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :nightbot!nightbot@nightbot.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:39:40 PM: botfumante - Received: :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:40:40 PM: botfumante - Received: :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 6:41:41 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=ffe6fda1-1c3a-4a1f-9f29-5d2422a22d4b;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719700431;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :eu descobri o que tava bugando o comando da curadoria peepoSmart
+9/5/2019 6:41:41 PM: MessagesTotal: 1 / MessagesPepes: 1 / MessagesPepesTotal: 1 / pepeCounted: True
+9/5/2019 6:42:06 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=01250729-d6a7-4cb2-97a7-31a5fcc1f3e8;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719725502;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :a porcaria do jogo furry do daniel ? adulto e nao mostra pela api FeelsMan
+9/5/2019 6:42:06 PM: MessagesTotal: 2 / MessagesPepes: 2 / MessagesPepesTotal: 2 / pepeCounted: True
+9/5/2019 6:42:41 PM: botfumante - Received: :hisaagi!hisaagi@hisaagi.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:42:41 PM: botfumante - Received: :commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:42:47 PM: botfumante - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,premium/1;color=#D8FF00;display-name=guillapre;emotes=;flags=;id=f18ac1d9-bc61-43dd-a8ac-a3c02b52c40e;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719766940;turbo=0;user-id=157919745;user-type= :guillapre!guillapre@guillapre.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+9/5/2019 6:42:47 PM: MessagesTotal: 3 / MessagesPepes: 3 / MessagesPepesTotal: 3 / pepeCounted: True
+9/5/2019 6:42:51 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=33094a98-89cf-4f65-9ec4-904acfb72d82;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719770673;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+9/5/2019 6:42:51 PM: MessagesTotal: 4 / MessagesPepes: 4 / MessagesPepesTotal: 4 / pepeCounted: True
+9/5/2019 6:43:12 PM: botfumante - Received: PING :tmi.twitch.tv
+9/5/2019 6:43:12 PM: botfumante - Writing: PONG
+9/5/2019 6:43:43 PM: botfumante - Received: :communityshowcase!communityshowcase@communityshowcase.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:44:17 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=b86a2bca-f858-42ae-b9a6-c777761b467f;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719857192;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+9/5/2019 6:44:17 PM: MessagesTotal: 5 / MessagesPepes: 5 / MessagesPepesTotal: 5 / pepeCounted: True
+9/5/2019 6:44:23 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=4df9ca93-7aca-48a6-b3fe-ea556389c343;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719862517;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :a valve queria vender mod tambem
+9/5/2019 6:44:23 PM: MessagesTotal: 6 / MessagesPepes: 5 / MessagesPepesTotal: 5 / pepeCounted: False
+9/5/2019 6:44:53 PM: botfumante - Received: @badge-info=;badges=bits-charity/1;color=#FF69B4;display-name=didigameboy;emotes=425618:5-7;flags=;id=1107ab25-9324-475c-839b-748a26efb251;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567719892989;turbo=0;user-id=116679759;user-type= :didigameboy!didigameboy@didigameboy.tmi.twitch.tv PRIVMSG #beringelamilgrau :lixo LUL
+9/5/2019 6:44:53 PM: MessagesTotal: 7 / MessagesPepes: 5 / MessagesPepesTotal: 5 / pepeCounted: False
+9/5/2019 6:45:07 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=349cc4ad-50ad-4830-9cbf-44b7fcbb884b;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567719906344;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :peepoSleepo
+9/5/2019 6:45:07 PM: MessagesTotal: 8 / MessagesPepes: 6 / MessagesPepesTotal: 6 / pepeCounted: True
+9/5/2019 6:45:14 PM: botfumante - Received: @badge-info=;badges=bits-charity/1;color=#FF69B4;display-name=didigameboy;emotes=;flags=;id=067cfcb0-097f-4b7b-bba9-1508fd523a4c;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567719914293;turbo=0;user-id=116679759;user-type= :didigameboy!didigameboy@didigameboy.tmi.twitch.tv PRIVMSG #beringelamilgrau :joguei berinjelas no lixo
+9/5/2019 6:45:14 PM: MessagesTotal: 9 / MessagesPepes: 6 / MessagesPepesTotal: 6 / pepeCounted: False
+9/5/2019 6:45:19 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=a6034565-d5d7-4fba-8010-77d38b01d8a5;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719919122;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :Pepega
+9/5/2019 6:45:19 PM: MessagesTotal: 10 / MessagesPepes: 7 / MessagesPepesTotal: 7 / pepeCounted: True
+9/5/2019 6:45:27 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emote-only=1;emotes=1866390:0-5;flags=;id=1c81d4ac-b4a8-4898-8454-a7873f6f1fc6;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567719926478;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :lordsD
+9/5/2019 6:45:27 PM: MessagesTotal: 11 / MessagesPepes: 7 / MessagesPepesTotal: 7 / pepeCounted: False
+9/5/2019 6:45:27 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=91c12a9e-258e-470f-808c-3035a5e7ffd2;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719926587;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+9/5/2019 6:45:27 PM: MessagesTotal: 12 / MessagesPepes: 8 / MessagesPepesTotal: 8 / pepeCounted: True
+9/5/2019 6:45:47 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=e94ad9bd-6bbe-4a95-a6d9-4b3c260cff22;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719946881;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :eu acho que o emote vai chegar no dia que meu sub acabar FeelsMan
+9/5/2019 6:45:47 PM: MessagesTotal: 13 / MessagesPepes: 9 / MessagesPepesTotal: 9 / pepeCounted: True
+9/5/2019 6:45:54 PM: botfumante - Received: :pocrevocrednu!pocrevocrednu@pocrevocrednu.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:45:54 PM: botfumante - Received: :didigameboy!didigameboy@didigameboy.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:46:15 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=10ea30c9-8029-46c3-81cc-8268d7f3caac;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719974477;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+9/5/2019 6:46:15 PM: MessagesTotal: 14 / MessagesPepes: 10 / MessagesPepesTotal: 10 / pepeCounted: True
+9/5/2019 6:46:28 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=5563fb87-e68d-4aba-b623-2c9f8073acd3;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567719987383;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :Sub renews on Sep 10 (in 5 days) monkaHmm
+9/5/2019 6:46:28 PM: MessagesTotal: 15 / MessagesPepes: 11 / MessagesPepesTotal: 11 / pepeCounted: True
+9/5/2019 6:46:41 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=f48fcd2b-e53e-4a8b-90d3-46fe55184337;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720000620;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :PepeLaugh
+9/5/2019 6:46:41 PM: MessagesTotal: 16 / MessagesPepes: 12 / MessagesPepesTotal: 12 / pepeCounted: True
+9/5/2019 6:46:54 PM: botfumante - Received: :rbruno018!rbruno018@rbruno018.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:46:56 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=857b9bf8-8dfd-4483-8663-d8ef012b13b3;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720016217;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :chegou visita e o the witcher tava na parte boa FeelsMan
+9/5/2019 6:46:56 PM: MessagesTotal: 17 / MessagesPepes: 13 / MessagesPepesTotal: 13 / pepeCounted: True
+9/5/2019 6:46:58 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=78e8d2cd-21e0-4b89-8854-68a382427332;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720018290;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :ve pelo lado bom
+9/5/2019 6:46:58 PM: MessagesTotal: 18 / MessagesPepes: 13 / MessagesPepesTotal: 13 / pepeCounted: False
+9/5/2019 6:47:08 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=3f246572-322f-4d8a-bfc1-f086a20a3350;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720027601;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :tive que parar de jogar FeelsMan
+9/5/2019 6:47:08 PM: MessagesTotal: 19 / MessagesPepes: 14 / MessagesPepesTotal: 14 / pepeCounted: True
+9/5/2019 6:47:15 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=772dabeb-2ba8-4b17-af57-a81365410954;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720034774;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :tu vai pegar o pr?ximo badge Pepega
+9/5/2019 6:47:15 PM: MessagesTotal: 20 / MessagesPepes: 15 / MessagesPepesTotal: 15 / pepeCounted: True
+9/5/2019 6:47:26 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=54661baf-d265-4fd6-b98d-a835d7b12b04;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720045880;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+9/5/2019 6:47:26 PM: MessagesTotal: 21 / MessagesPepes: 16 / MessagesPepesTotal: 16 / pepeCounted: True
+9/5/2019 6:47:28 PM: botfumante - Received: PING :tmi.twitch.tv
+9/5/2019 6:47:28 PM: botfumante - Writing: PONG
+9/5/2019 6:47:38 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=a44586e7-a19b-47e1-9e1a-76b957bfc91c;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720057594;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :aceita 5k beringelas?
+9/5/2019 6:47:38 PM: MessagesTotal: 22 / MessagesPepes: 16 / MessagesPepesTotal: 16 / pepeCounted: False
+9/5/2019 6:48:02 PM: botfumante - Received: :communityshowcase!communityshowcase@communityshowcase.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 6:48:02 PM: botfumante - Received: :gladosxcake!gladosxcake@gladosxcake.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 6:49:03 PM: botfumante - Received: :gladosxcake!gladosxcake@gladosxcake.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:51:56 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emotes=;flags=;id=63c1b691-7174-43dd-b42e-112f57dde4ac;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720315383;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :essas beringelas t?o muito inflacionadas D:
+9/5/2019 6:51:56 PM: MessagesTotal: 23 / MessagesPepes: 16 / MessagesPepesTotal: 16 / pepeCounted: False
+9/5/2019 6:52:06 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emotes=;flags=;id=adf18d24-1507-44c5-b582-73f4cd2e3318;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720325447;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :2k pra abrir um mote ConcernDoge
+9/5/2019 6:52:06 PM: MessagesTotal: 24 / MessagesPepes: 16 / MessagesPepesTotal: 16 / pepeCounted: False
+9/5/2019 6:52:09 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emotes=;flags=;id=806b6fc1-7d83-487d-9238-d1d9a77e9a93;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720329299;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :emote*
+9/5/2019 6:52:09 PM: MessagesTotal: 25 / MessagesPepes: 16 / MessagesPepesTotal: 16 / pepeCounted: False
+9/5/2019 6:52:12 PM: botfumante - Received: PING :tmi.twitch.tv
+9/5/2019 6:52:12 PM: botfumante - Writing: PONG
+9/5/2019 6:52:22 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emotes=;flags=;id=63d6170d-e797-471a-9003-cce263a2114a;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720342303;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :u? n?o tinha emotes?
+9/5/2019 6:52:22 PM: MessagesTotal: 26 / MessagesPepes: 16 / MessagesPepesTotal: 16 / pepeCounted: False
+9/5/2019 6:52:39 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=b2c16a26-c756-4cdc-b209-0e099f4e11ed;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720359029;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :Pepega
+9/5/2019 6:52:39 PM: MessagesTotal: 27 / MessagesPepes: 17 / MessagesPepesTotal: 17 / pepeCounted: True
+9/5/2019 6:52:57 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=8243e7d9-9be1-40ab-adb4-69cda99284e6;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720376413;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :PepeHandsE
+9/5/2019 6:52:57 PM: MessagesTotal: 28 / MessagesPepes: 18 / MessagesPepesTotal: 18 / pepeCounted: True
+9/5/2019 6:52:58 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emotes=;flags=;id=bb96c9c0-c110-43af-95db-b9d1e3f4cf2d;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720378156;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :OhISee
+9/5/2019 6:52:58 PM: MessagesTotal: 29 / MessagesPepes: 18 / MessagesPepesTotal: 18 / pepeCounted: False
+9/5/2019 6:53:00 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=cb86cd62-4772-4848-a8b7-c74ec4a022da;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720379671;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :emote do daniel
+9/5/2019 6:53:00 PM: MessagesTotal: 30 / MessagesPepes: 18 / MessagesPepesTotal: 18 / pepeCounted: False
+9/5/2019 6:53:08 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emote-only=1;emotes=425618:0-2;flags=;id=9962c26b-84f7-4a58-8f13-bf6f75eb534c;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720387459;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :LUL
+9/5/2019 6:53:08 PM: MessagesTotal: 31 / MessagesPepes: 18 / MessagesPepesTotal: 18 / pepeCounted: False
+9/5/2019 6:53:08 PM: botfumante - Received: :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:53:08 PM: botfumante - Received: :pocrevocrednu!pocrevocrednu@pocrevocrednu.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 6:53:19 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=2814269f-c812-4263-8001-3772e9cbdbd4;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720399282;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+9/5/2019 6:53:19 PM: MessagesTotal: 32 / MessagesPepes: 19 / MessagesPepesTotal: 19 / pepeCounted: True
+9/5/2019 6:53:22 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=3040bd08-7281-400d-9ef6-b176a4d8b75c;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720402117;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :esse do daniel deixa pra la
+9/5/2019 6:53:22 PM: MessagesTotal: 33 / MessagesPepes: 19 / MessagesPepesTotal: 19 / pepeCounted: False
+9/5/2019 6:53:32 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emotes=;flags=;id=4bfc7319-bceb-4f3e-ba66-673022dacb0b;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720412018;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :joguei tudo fora
+9/5/2019 6:53:32 PM: MessagesTotal: 34 / MessagesPepes: 19 / MessagesPepesTotal: 19 / pepeCounted: False
+9/5/2019 6:53:36 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=e35eb13a-d03c-4b40-8aa4-dabaea12c8b2;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720416152;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :coloca pra vender o comando !tiro Pepega
+9/5/2019 6:53:36 PM: MessagesTotal: 35 / MessagesPepes: 20 / MessagesPepesTotal: 20 / pepeCounted: True
+9/5/2019 6:53:50 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=de0d6534-e66b-4ca0-ac96-9d752f22f1c8;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720430143;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsMan o pior que jogar no lixo enche o feed de atividade de aviso
+9/5/2019 6:53:50 PM: MessagesTotal: 36 / MessagesPepes: 21 / MessagesPepesTotal: 21 / pepeCounted: True
+9/5/2019 6:55:07 PM: botfumante - Received: :angeloflight!angeloflight@angeloflight.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:55:45 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=RobertoNogueira;emotes=;flags=;id=417e9889-9760-492e-be4f-ff3661e5e8a4;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720544798;turbo=0;user-id=37272586;user-type= :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PRIVMSG #beringelamilgrau :daniel queria fazer live? ConcernFroge
+9/5/2019 6:55:45 PM: MessagesTotal: 37 / MessagesPepes: 22 / MessagesPepesTotal: 22 / pepeCounted: True
+9/5/2019 6:56:09 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=11193410-8223-4d62-88de-1a6e0bdbd239;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720568984;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :acho que sim FeelsMan
+9/5/2019 6:56:09 PM: MessagesTotal: 38 / MessagesPepes: 23 / MessagesPepesTotal: 23 / pepeCounted: True
+9/5/2019 6:56:25 PM: botfumante - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,premium/1;color=#D8FF00;display-name=guillapre;emotes=;flags=;id=ea756f4d-81d0-4e6d-9266-8b57bac362f0;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720585337;turbo=0;user-id=157919745;user-type= :guillapre!guillapre@guillapre.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsMan
+9/5/2019 6:56:25 PM: MessagesTotal: 39 / MessagesPepes: 24 / MessagesPepesTotal: 24 / pepeCounted: True
+9/5/2019 6:56:37 PM: botfumante - Received: @badge-info=subscriber/2;badges=subscriber/0,premium/1;color=#FF69B4;display-name=Maria_Renata;emotes=1866390:0-5;flags=;id=06975a78-62cf-4d7c-8a67-2983aedf24c3;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720596760;turbo=0;user-id=212194263;user-type= :maria_renata!maria_renata@maria_renata.tmi.twitch.tv PRIVMSG #beringelamilgrau :lordsD briga entre os beringelos
+9/5/2019 6:56:37 PM: MessagesTotal: 40 / MessagesPepes: 24 / MessagesPepesTotal: 24 / pepeCounted: False
+9/5/2019 6:56:43 PM: botfumante - Received: PING :tmi.twitch.tv
+9/5/2019 6:56:43 PM: botfumante - Writing: PONG
+9/5/2019 6:56:45 PM: botfumante - Received: @badge-info=subscriber/2;badges=subscriber/0,premium/1;color=#FF69B4;display-name=Maria_Renata;emotes=;flags=0-4:P.6/S.0;id=64443050-da0a-4b44-b683-26b8b6fd290b;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720605028;turbo=0;user-id=212194263;user-type= :maria_renata!maria_renata@maria_renata.tmi.twitch.tv PRIVMSG #beringelamilgrau :porra tiraram meu mod de novo?
+9/5/2019 6:56:45 PM: MessagesTotal: 41 / MessagesPepes: 24 / MessagesPepesTotal: 24 / pepeCounted: False
+9/5/2019 6:56:53 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=d5cef1ba-c39e-453c-ae16-719cc20b13f0;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720612858;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+9/5/2019 6:56:53 PM: MessagesTotal: 42 / MessagesPepes: 25 / MessagesPepesTotal: 25 / pepeCounted: True
+9/5/2019 6:57:19 PM: botfumante - Received: @badge-info=subscriber/2;badges=subscriber/0,premium/1;color=#FF69B4;display-name=Maria_Renata;emotes=542725:8-16;flags=;id=47a3f65e-ebf0-491d-ace5-0ef45c6ac6b0;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720638448;turbo=0;user-id=212194263;user-type= :maria_renata!maria_renata@maria_renata.tmi.twitch.tv PRIVMSG #beringelamilgrau :Devolve lordsCops
+9/5/2019 6:57:19 PM: MessagesTotal: 43 / MessagesPepes: 25 / MessagesPepesTotal: 25 / pepeCounted: False
+9/5/2019 6:58:18 PM: botfumante - Received: :maria_renata!maria_renata@maria_renata.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 6:58:52 PM: botfumante - Received: @badge-info=subscriber/2;badges=subscriber/0,premium/1;color=#FF69B4;display-name=Maria_Renata;emotes=;flags=;id=b9e7d506-c00c-46fc-8ade-cd411705ac7a;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720732037;turbo=0;user-id=212194263;user-type= :maria_renata!maria_renata@maria_renata.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaGun nao dou mais sub ent?o
+9/5/2019 6:58:52 PM: MessagesTotal: 44 / MessagesPepes: 26 / MessagesPepesTotal: 26 / pepeCounted: True
+9/5/2019 6:59:24 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=182781eb-342f-4507-a6ac-d5c5a57fca50;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720763471;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+9/5/2019 6:59:24 PM: MessagesTotal: 45 / MessagesPepes: 27 / MessagesPepesTotal: 27 / pepeCounted: True
+9/5/2019 6:59:26 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=9691e210-c1a6-4dca-9156-81ab922aaa93;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720766149;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :quero mod tambem
+9/5/2019 6:59:26 PM: MessagesTotal: 46 / MessagesPepes: 27 / MessagesPepesTotal: 27 / pepeCounted: False
+9/5/2019 6:59:30 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=7b367224-6f55-417b-9f35-b9b0155d054d;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720770184;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :nao vou dar mais sub Pepega
+9/5/2019 6:59:30 PM: MessagesTotal: 47 / MessagesPepes: 28 / MessagesPepesTotal: 28 / pepeCounted: True
+9/5/2019 6:59:33 PM: botfumante - Received: @badge-info=subscriber/2;badges=moderator/1,subscriber/0,premium/1;color=#FF69B4;display-name=Maria_Renata;emotes=;flags=0-10:S.6;id=25e215fc-75f4-42a0-806c-641391c3d270;mod=1;room-id=443063688;subscriber=1;tmi-sent-ts=1567720773299;turbo=0;user-id=212194263;user-type=mod :maria_renata!maria_renata@maria_renata.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsHentai
+9/5/2019 6:59:33 PM: MessagesTotal: 48 / MessagesPepes: 29 / MessagesPepesTotal: 29 / pepeCounted: True
+9/5/2019 6:59:40 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=73ed413e-b92e-42ea-922e-9f84483b9b84;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720780226;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :guila tambem quer mod
+9/5/2019 6:59:40 PM: MessagesTotal: 49 / MessagesPepes: 29 / MessagesPepesTotal: 29 / pepeCounted: False
+9/5/2019 6:59:46 PM: botfumante - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,premium/1;color=#D8FF00;display-name=guillapre;emotes=;flags=;id=4e7d3409-261a-4985-a5c4-71ee610423ec;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720786189;turbo=0;user-id=157919745;user-type= :guillapre!guillapre@guillapre.tmi.twitch.tv PRIVMSG #beringelamilgrau :se n me der mod tb n dou sub Pepega
+9/5/2019 6:59:46 PM: MessagesTotal: 50 / MessagesPepes: 30 / MessagesPepesTotal: 30 / pepeCounted: True
+9/5/2019 7:00:06 PM: botfumante - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=1772890:0-7,62-69;flags=;id=8e2f0dcc-f321-4028-95d3-a02d8f908563;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1567720805348;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #beringelamilgrau :lordsSip Olha ai rap?, t? na hora de se hidratar! tomele ?gua lordsSip
+9/5/2019 7:00:12 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=48fd65ac-2875-40be-91ed-24ae577d3414;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720811520;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :vai nao FeelsOkayMan
+9/5/2019 7:00:12 PM: MessagesTotal: 51 / MessagesPepes: 31 / MessagesPepesTotal: 31 / pepeCounted: True
+9/5/2019 7:01:04 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=27a4db71-fb39-45a8-a559-dea5be060159;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720863894;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+9/5/2019 7:01:04 PM: MessagesTotal: 52 / MessagesPepes: 32 / MessagesPepesTotal: 32 / pepeCounted: True
+9/5/2019 7:01:12 PM: botfumante - Received: PING :tmi.twitch.tv
+9/5/2019 7:01:12 PM: botfumante - Writing: PONG
+9/5/2019 7:01:12 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=c76bbbdd-bc6f-44d5-878c-3a0944d7d3e9;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720872189;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :quero mod tb ConcernFroge
+9/5/2019 7:01:12 PM: MessagesTotal: 53 / MessagesPepes: 33 / MessagesPepesTotal: 33 / pepeCounted: True
+9/5/2019 7:01:14 PM: botfumante - Received: @badge-info=subscriber/2;badges=moderator/1,subscriber/0,premium/1;color=#FF69B4;display-name=Maria_Renata;emotes=;flags=;id=42de540a-b26b-4ada-951e-e392e7ada0d6;mod=1;room-id=443063688;subscriber=1;tmi-sent-ts=1567720874201;turbo=0;user-id=212194263;user-type=mod :maria_renata!maria_renata@maria_renata.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+9/5/2019 7:01:14 PM: MessagesTotal: 54 / MessagesPepes: 34 / MessagesPepesTotal: 34 / pepeCounted: True
+9/5/2019 7:01:18 PM: botfumante - Received: :lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 7:01:18 PM: botfumante - Received: :bloodlustr!bloodlustr@bloodlustr.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 7:01:18 PM: botfumante - Received: :maria_renata!maria_renata@maria_renata.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 7:01:21 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=101e8bcf-8338-4930-b46a-8cb5933bbc7b;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720881223;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :da mod pro bruno FeelsOkayMan
+9/5/2019 7:01:21 PM: MessagesTotal: 55 / MessagesPepes: 35 / MessagesPepesTotal: 35 / pepeCounted: True
+9/5/2019 7:01:45 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=70c1a224-1547-4b8e-b1be-1a5da47c1681;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720905014;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :se me der mod jean desaparece da face da terra FeelsOkayMan
+9/5/2019 7:01:45 PM: MessagesTotal: 56 / MessagesPepes: 36 / MessagesPepesTotal: 36 / pepeCounted: True
+9/5/2019 7:01:51 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=5eea4a25-0e5e-4dcf-bf76-9f3916f4be5c;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720911059;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+9/5/2019 7:01:51 PM: MessagesTotal: 57 / MessagesPepes: 37 / MessagesPepesTotal: 37 / pepeCounted: True
+9/5/2019 7:02:00 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=70f1ef9a-0b4e-4b03-844f-ce7aacd01790;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720920007;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :to falando ConcernFroge
+9/5/2019 7:02:00 PM: MessagesTotal: 58 / MessagesPepes: 38 / MessagesPepesTotal: 38 / pepeCounted: True
+9/5/2019 7:02:08 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=7e590545-9b39-4db7-9aa9-6afbf9a450d5;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567720927307;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsOkayMan
+9/5/2019 7:02:08 PM: MessagesTotal: 59 / MessagesPepes: 39 / MessagesPepesTotal: 39 / pepeCounted: True
+9/5/2019 7:02:17 PM: botfumante - Received: :maria_renata!maria_renata@maria_renata.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 7:02:17 PM: botfumante - Received: :robertonogueira!robertonogueira@robertonogueira.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 7:02:45 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=e0be90b9-5e04-44ab-aff1-41bcf18ccc7a;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567720964993;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :a? ? s? me dar mod pra nao ser banido pelo bruno peepoSmart
+9/5/2019 7:02:45 PM: MessagesTotal: 60 / MessagesPepes: 40 / MessagesPepesTotal: 40 / pepeCounted: True
+9/5/2019 7:03:16 PM: botfumante - Received: :bloodlustr!bloodlustr@bloodlustr.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 7:03:44 PM: botfumante - Received: @badge-info=;badges=bits/100;color=#DAA520;display-name=lucaesan;emotes=;flags=;id=49aa647f-74e5-44e3-9164-a8db36f4571b;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567721023416;turbo=0;user-id=167039036;user-type= :lucaesan!lucaesan@lucaesan.tmi.twitch.tv PRIVMSG #beringelamilgrau :e ae
+9/5/2019 7:03:44 PM: MessagesTotal: 61 / MessagesPepes: 40 / MessagesPepesTotal: 40 / pepeCounted: False
+9/5/2019 7:04:04 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=1448872:5-9;flags=;id=a5a906ea-3f9e-40ce-9f81-0ed1f3d50431;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567721043927;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :luca agilS
+9/5/2019 7:04:04 PM: MessagesTotal: 62 / MessagesPepes: 40 / MessagesPepesTotal: 40 / pepeCounted: False
+9/5/2019 7:04:08 PM: botfumante - Received: @badge-info=;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=300552551:0-6;flags=;id=3af55306-473a-4535-8d08-14c8fc400c4a;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1567721047241;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :agilSip *
+9/5/2019 7:04:08 PM: MessagesTotal: 63 / MessagesPepes: 40 / MessagesPepesTotal: 40 / pepeCounted: False
+9/5/2019 7:04:17 PM: botfumante - Received: :vizzimer!vizzimer@vizzimer.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 7:04:17 PM: botfumante - Received: :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PART #beringelamilgrau
+9/5/2019 7:05:25 PM: botfumante - Received: :lucaesan!lucaesan@lucaesan.tmi.twitch.tv JOIN #beringelamilgrau
+9/5/2019 7:05:39 PM: botfumante - Received: @badge-info=;badges=bits/100;color=#DAA520;display-name=lucaesan;emotes=201574_SG:5-16;flags=;id=ad90b324-0fee-4044-b006-6941ad2d9bed;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1567721139163;turbo=0;user-id=167039036;user-type= :lucaesan!lucaesan@lucaesan.tmi.twitch.tv PRIVMSG #beringelamilgrau :Jean lordsKula_SG

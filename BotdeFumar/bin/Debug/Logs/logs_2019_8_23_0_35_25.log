@@ -1,0 +1,37 @@
+8/23/2019 12:35:25 AM: bot_stay_high - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/23/2019 12:35:26 AM: bot_stay_high - Should be connected!
+8/23/2019 12:35:27 AM: bot_stay_high - Joining channel: beringelamilgrau
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv 001 bot_stay_high :Welcome, GLHF!
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv 002 bot_stay_high :Your host is tmi.twitch.tv
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv 003 bot_stay_high :This server is rather new
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv 004 bot_stay_high :-
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv 375 bot_stay_high :-
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv 372 bot_stay_high :You are in a maze of twisty passages, all alike.
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv 376 bot_stay_high :>
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 12:35:27 AM: bot_stay_high - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 12:35:27 AM: bot_stay_high - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 12:35:27 AM: bot_stay_high - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :bot_stay_high!bot_stay_high@bot_stay_high.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :bot_stay_high.tmi.twitch.tv 353 bot_stay_high = #beringelamilgrau :bot_stay_high
+8/23/2019 12:35:27 AM: bot_stay_high - Received: :bot_stay_high.tmi.twitch.tv 366 bot_stay_high #beringelamilgrau :End of /NAMES list
+8/23/2019 12:35:27 AM: bot_stay_high - Finished channel joining queue.
+8/23/2019 12:35:27 AM: bot_stay_high - Received: @badge-info=;badges=;color=;display-name=bot_stay_high;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/23/2019 12:35:27 AM: bot_stay_high - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/23/2019 12:35:28 AM: bot_stay_high - Finished channel joining queue.
+8/23/2019 12:35:29 AM: bot_stay_high - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=f0db782f-a1e9-40e8-9d20-f943098fd828;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566531329556;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price bufa
+8/23/2019 12:35:35 AM: bot_stay_high - Received: @badge-info=;badges=;color=#00FF7F;display-name=CreepyHead;emotes=;flags=;id=2084a2b6-9122-4e37-b215-17ea2e0b144f;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566531335236;turbo=0;user-id=70457200;user-type= :creepyhead!creepyhead@creepyhead.tmi.twitch.tv PRIVMSG #beringelamilgrau :pois ?
+8/23/2019 12:35:35 AM: bot_stay_high - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=ffb7f204-da89-4400-a276-59f647037088;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566531335279;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price gta 3
+8/23/2019 12:35:37 AM: bot_stay_high - Received: @badge-info=;badges=premium/1;color=#3AC6D0;display-name=Gabrigode;emotes=;flags=;id=6f82c752-578c-4a6d-b952-4e1bf17c3f66;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566531337136;turbo=0;user-id=125402779;user-type= :gabrigode!gabrigode@gabrigode.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price buffa
+8/23/2019 12:35:38 AM: bot_stay_high - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=;id=1d5c43d3-aeb8-43f6-b1f9-ad2c351c0586;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566531337431;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :BUGO ??
+8/23/2019 12:35:38 AM: bot_stay_high - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=494a9265-e38b-4ef7-8a2a-e163a60e7433;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566531337433;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :quebramo o bot FeelsOkayMan
+8/23/2019 12:35:42 AM: bot_stay_high - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=531f5582-fa00-46a6-8fce-c37bf0033879;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566531341609;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+8/23/2019 12:35:43 AM: bot_stay_high - Received: @badge-info=;badges=;color=#00FF7F;display-name=CreepyHead;emotes=;flags=7-13:A.3/I.3/S.3;id=8de673b1-08e8-47f4-8c18-030a231b4aec;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566531343282;turbo=0;user-id=70457200;user-type= :creepyhead!creepyhead@creepyhead.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price traveco
+8/23/2019 12:35:44 AM: bot_stay_high - Received: @badge-info=;badges=;color=;display-name=bot_stay_high;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/23/2019 12:35:45 AM: bot_stay_high - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=;id=2919a47e-87f3-4363-8b99-8e9dc2223b71;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566531344623;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :RIP BOT
+8/23/2019 12:35:45 AM: bot_stay_high - Received: @badge-info=;badges=moderator/1;color=#FF9600;display-name=ddanniell;emotes=;flags=;id=b6e33514-b417-4d2d-9bcf-75dcce4af1e5;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1566531345428;turbo=0;user-id=36163282;user-type=mod :ddanniell!ddanniell@ddanniell.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price ze droginha
+8/23/2019 12:35:46 AM: bot_stay_high - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=d2f9eb7d-4e6a-4074-92e5-e659b43624ef;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566531346193;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :mudei uma coisa aqui
+8/23/2019 12:35:46 AM: bot_stay_high - Received: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/23/2019 12:35:46 AM: bot_stay_high - Unaccounted for: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.

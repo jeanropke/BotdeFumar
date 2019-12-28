@@ -1,0 +1,28 @@
+8/23/2019 6:42:31 PM: bot_stay_high - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/23/2019 6:42:32 PM: bot_stay_high - Should be connected!
+8/23/2019 6:42:32 PM: bot_stay_high - Joining channel: beringelamilgrau
+8/23/2019 6:42:32 PM: bot_stay_high - Received: :tmi.twitch.tv 001 bot_stay_high :Welcome, GLHF!
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv 002 bot_stay_high :Your host is tmi.twitch.tv
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv 003 bot_stay_high :This server is rather new
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv 004 bot_stay_high :-
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv 375 bot_stay_high :-
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv 372 bot_stay_high :You are in a maze of twisty passages, all alike.
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv 376 bot_stay_high :>
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 6:42:33 PM: bot_stay_high - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 6:42:33 PM: bot_stay_high - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 6:42:33 PM: bot_stay_high - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :bot_stay_high!bot_stay_high@bot_stay_high.tmi.twitch.tv JOIN #beringelamilgrau
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :bot_stay_high.tmi.twitch.tv 353 bot_stay_high = #beringelamilgrau :bot_stay_high
+8/23/2019 6:42:33 PM: bot_stay_high - Received: :bot_stay_high.tmi.twitch.tv 366 bot_stay_high #beringelamilgrau :End of /NAMES list
+8/23/2019 6:42:33 PM: bot_stay_high - Finished channel joining queue.
+8/23/2019 6:42:33 PM: bot_stay_high - Received: @badge-info=;badges=;color=;display-name=bot_stay_high;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/23/2019 6:42:33 PM: bot_stay_high - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/23/2019 6:42:33 PM: bot_stay_high - Finished channel joining queue.
+8/23/2019 6:42:33 PM: bot_stay_high - Received: @badge-info=;badges=;color=;display-name=bot_stay_high;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/23/2019 6:42:37 PM: bot_stay_high - Received: @badge-info=;badges=moderator/1;color=#008000;display-name=TONYXZERO;emotes=;flags=;id=0bc4ed2f-0f47-463e-8a89-882be0b515bf;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1566596556008;turbo=0;user-id=38731171;user-type=mod :tonyxzero!tonyxzero@tonyxzero.tmi.twitch.tv PRIVMSG #beringelamilgrau :OhISee
+8/23/2019 6:42:39 PM: bot_stay_high - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=94e32c38-6e43-4a12-97f9-d126dc34c1eb;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566596558801;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :!maluco !price gta
+8/23/2019 6:42:40 PM: bot_stay_high - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=26-36:P.5;id=6d288288-ce97-4cff-a00d-75783cb54166;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1566596559268;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price gta , tu ta maluco pra caralho merm?o! Pepega
+8/23/2019 6:42:45 PM: bot_stay_high - Received: @badge-info=;badges=vip/1;color=#008000;display-name=Hisaagi;emotes=;flags=;id=9137be4a-1251-495a-bf1d-875c623daded;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566596564470;turbo=0;user-id=137774469;user-type= :hisaagi!hisaagi@hisaagi.tmi.twitch.tv PRIVMSG #beringelamilgrau :? no museu do banco do brasil, tem sempre umas exposi??es e coisas desse tipo

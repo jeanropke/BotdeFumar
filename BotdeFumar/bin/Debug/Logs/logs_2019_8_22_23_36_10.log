@@ -1,0 +1,62 @@
+8/22/2019 11:36:10 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/22/2019 11:36:11 PM: botfumante - Should be connected!
+8/22/2019 11:36:11 PM: botfumante - Joining channel: beringelamilgrau
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 11:36:11 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 11:36:11 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 11:36:11 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 11:36:11 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 11:36:11 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:36:11 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/22/2019 11:36:11 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/22/2019 11:36:11 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :commanderroot jean__ lurxx s1faka electricallongboard leafjat don_torelli joseantonio001 lucaesan winsock streamlabs montee_waffle beringelamilgrau ddanniell rbruno018
+8/22/2019 11:36:11 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+8/22/2019 11:36:11 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+8/22/2019 11:36:11 PM: botfumante - Finished channel joining queue.
+8/22/2019 11:36:12 PM: botfumante - Finished channel joining queue.
+8/22/2019 11:36:14 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=c8e60195-18aa-4e9f-8d84-a4405b4868cd;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566527774486;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price gta 3
+8/22/2019 11:36:22 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=b446f566-10ad-4d89-a038-fb027064a799;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566527777028;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :eu nao meto o louco FeelsOkayMan
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=86d7721b-41f7-481a-b635-c1376b5a5a60;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566527779230;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsOkayMan
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_duplicate :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+8/22/2019 11:36:31 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#FF69B4;display-name=rbruno018;emotes=;flags=;id=da1d6732-e272-43e1-a692-462c152f2192;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566527790878;turbo=0;user-id=216448313;user-type= :rbruno018!rbruno018@rbruno018.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsOkayMan
+8/22/2019 11:36:34 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=534b7ac7-ef2d-464b-a279-311dd6aff009;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566527794311;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :testa ae FeelsOkayMan
+8/22/2019 11:36:41 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=251286bd-91f1-4195-8188-2e6a0a4258e1;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566527801251;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price gta sa
+8/22/2019 11:36:56 PM: botfumante - Reconnecting to Twitch
+8/22/2019 11:37:01 PM: botfumante - Reconnecting to Twitch
+8/22/2019 11:37:06 PM: botfumante - Reconnecting to Twitch

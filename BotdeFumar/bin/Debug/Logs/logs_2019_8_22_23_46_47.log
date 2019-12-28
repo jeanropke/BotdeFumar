@@ -1,0 +1,69 @@
+8/22/2019 11:46:47 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/22/2019 11:46:48 PM: botfumante - Should be connected!
+8/22/2019 11:46:48 PM: botfumante - Joining channel: beringelamilgrau
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 11:46:49 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 11:46:49 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/22/2019 11:46:49 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 11:46:49 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/22/2019 11:46:49 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:46:49 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+8/22/2019 11:46:49 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+8/22/2019 11:46:49 PM: botfumante - Finished channel joining queue.
+8/22/2019 11:46:49 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/22/2019 11:46:49 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/22/2019 11:46:49 PM: botfumante - Finished channel joining queue.
+8/22/2019 11:46:53 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=7-12:S.5;id=7dde3c32-8107-4833-b97c-17ead8b0d288;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528413531;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :!price Hentai Puzzle
+8/22/2019 11:47:03 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=c16104a6-1b15-4945-94b1-8419eca4cc8a;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528423489;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+8/22/2019 11:47:10 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=73a70c2c-6e4e-4f33-8e70-b6ff14c71356;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528430404;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :enviei muitos requests pro google PepeLaugh
+8/22/2019 11:47:15 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=e9d6a9c3-5f83-4740-8214-2a149ef16c34;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528435093;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :vai tomar no cu google PepeLaugh
+8/22/2019 11:47:26 PM: botfumante - Received: @badge-info=subscriber/2;badges=broadcaster/1,subscriber/0;color=#8A2BE2;display-name=BeringelaMilGrau;emotes=;flags=;id=4f272d4b-ddf9-4c7d-b745-bfaed990038d;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528446159;turbo=0;user-id=443063688;user-type= :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv PRIVMSG #beringelamilgrau :ConcernFroge
+8/22/2019 11:47:28 PM: botfumante - Received: :beringelamilgrau!beringelamilgrau@beringelamilgrau.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :montee_waffle!montee_waffle@montee_waffle.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :leafjat!leafjat@leafjat.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :hostmeraffle!hostmeraffle@hostmeraffle.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :streamlabs!streamlabs@streamlabs.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :commanderroot!commanderroot@commanderroot.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :winsock!winsock@winsock.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :s1faka!s1faka@s1faka.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :rbruno018!rbruno018@rbruno018.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :electricallongboard!electricallongboard@electricallongboard.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :lucaesan!lucaesan@lucaesan.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :don_torelli!don_torelli@don_torelli.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :ddanniell!ddanniell@ddanniell.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:47:28 PM: botfumante - Received: :lurxx!lurxx@lurxx.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:49:05 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=d7668b55-70e1-4b6e-86f0-204ca4d17648;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528544662;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :vou usar o duckduckgo ConcernFroge
+8/22/2019 11:49:37 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=c9bdae9b-1e3f-428b-b2f1-957ef4936edb;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528576834;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsMan
+8/22/2019 11:49:44 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=9e58824d-7c7f-404d-a2d4-9383de06c834;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528584502;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :mais que um ip banido nao vai acontecer FeelsOkayMan
+8/22/2019 11:50:58 PM: botfumante - Received: @badge-info=;badges=premium/1;color=#3AC6D0;display-name=Gabrigode;emotes=;flags=;id=187c2485-a610-4219-bd24-d8c4fc8e2713;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566528657977;turbo=0;user-id=125402779;user-type= :gabrigode!gabrigode@gabrigode.tmi.twitch.tv PRIVMSG #beringelamilgrau :AYAYA
+8/22/2019 11:51:09 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=;id=f40ea31e-f661-431f-bcb5-686198f4853c;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566528668999;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :a STEAM tinha q obriga a glr a colocar a DEMO dos GAMES, mano iria reduzir muito os REFUNDS pq o cara ia poder joga antes de compra
+8/22/2019 11:51:14 PM: botfumante - Received: PING :tmi.twitch.tv
+8/22/2019 11:51:14 PM: botfumante - Writing: PONG
+8/22/2019 11:51:30 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=90fefa21-b838-4d44-b767-ea76083837b1;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528690594;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :Gabrigode FeelsOkayMan
+8/22/2019 11:51:53 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=;id=b02e8349-7d1e-44af-bac7-6993ac1a1171;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566528712660;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :mas o REFUND tu pago a DEMO vc so ia testa
+8/22/2019 11:52:04 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=;id=c9e219f5-68df-464a-85c9-8edd1d7ed59e;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566528723813;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :e vai demora 2 dias pro teu dinhero volta
+8/22/2019 11:52:47 PM: botfumante - Received: :gabrigode!gabrigode@gabrigode.tmi.twitch.tv JOIN #beringelamilgrau
+8/22/2019 11:53:43 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=;id=fc72457b-367b-496f-9c5f-0d745606aaa8;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566528823198;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :mano o CASTLEVANIA tem DEMO nao precisa fazer uma game diferente e so colocar TIMER no GAME
+8/22/2019 11:54:19 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=25:40-44;flags=;id=89c4b4a7-663d-496b-98c9-8d0503b17759;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566528859081;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :se tu hackea a STEAM vc vai pra HARVARD Kappa
+8/22/2019 11:54:25 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=;id=e4e54356-1f7a-4f3b-843c-da79b47010a6;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566528864904;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :nao e tao facil assim
+8/22/2019 11:55:09 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=b3284d77-9f48-470c-8a57-bbc758cab31e;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566528909548;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :re2 tinha timer no demo e durou 12 horas PepeLaugh
+8/22/2019 11:56:12 PM: botfumante - Received: PING :tmi.twitch.tv
+8/22/2019 11:56:12 PM: botfumante - Writing: PONG
+8/22/2019 11:57:12 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=30-34:P.6/S.0;id=c4ce086b-3f0a-4912-a221-bfd0c97f0c05;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566529031622;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :mas a DEMO do RE2 e MAL FEITA porra eles colocaram o GAME inteiro na DEMO em vez de trava em um lugar especifico
+8/22/2019 11:57:36 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=04adb0cf-ff81-40e9-bef3-63adfc463f1c;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566529056186;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+8/22/2019 11:58:07 PM: botfumante - Received: @badge-info=;badges=premium/1;color=#3AC6D0;display-name=Gabrigode;emotes=;flags=;id=cb83ff92-bc0c-4475-a7c1-8e1fb04d4195;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566529087021;turbo=0;user-id=125402779;user-type= :gabrigode!gabrigode@gabrigode.tmi.twitch.tv PRIVMSG #beringelamilgrau :@Jean__ FeelsOkayMan
+8/22/2019 11:58:42 PM: botfumante - Received: @badge-info=;badges=premium/1;color=#3AC6D0;display-name=Gabrigode;emotes=;flags=;id=40d8bf09-2a4b-4ca8-9261-e5c3e86b3849;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566529121799;turbo=0;user-id=125402779;user-type= :gabrigode!gabrigode@gabrigode.tmi.twitch.tv PRIVMSG #beringelamilgrau :bora FeelsOkayMan
+8/22/2019 11:58:56 PM: botfumante - Received: :hostmeraffle!hostmeraffle@hostmeraffle.tmi.twitch.tv PART #beringelamilgrau
+8/22/2019 11:58:56 PM: botfumante - Received: :s1faka!s1faka@s1faka.tmi.twitch.tv PART #beringelamilgrau
+8/22/2019 11:59:00 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emotes=;flags=2-14:A.6/P.6;id=b043dca1-4b8c-4322-8b34-0a6290b9898b;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566529139880;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :a FODA SE se vc que DEMO baxa na Bay se for bom depois de FORMATA o PC por causa do BAIDU vc compra
+8/22/2019 11:59:10 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=joseantonio001;emote-only=1;emotes=25:0-4;flags=;id=29646214-6733-49a1-9d32-d86dd0c86e7e;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566529150490;turbo=0;user-id=157525923;user-type= :joseantonio001!joseantonio001@joseantonio001.tmi.twitch.tv PRIVMSG #beringelamilgrau :Kappa

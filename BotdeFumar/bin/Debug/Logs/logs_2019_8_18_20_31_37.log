@@ -1,0 +1,28 @@
+8/18/2019 8:31:37 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/18/2019 8:31:38 PM: botfumante - Should be connected!
+8/18/2019 8:31:38 PM: botfumante - Joining channel: beringelamilgrau
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/18/2019 8:31:39 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/18/2019 8:31:39 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/18/2019 8:31:39 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/18/2019 8:31:39 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/18/2019 8:31:39 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+8/18/2019 8:31:39 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+8/18/2019 8:31:39 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+8/18/2019 8:31:39 PM: botfumante - Finished channel joining queue.
+8/18/2019 8:31:39 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/18/2019 8:31:39 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/18/2019 8:31:39 PM: botfumante - Finished channel joining queue.
+8/18/2019 8:31:51 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=055c7e75-d2f5-43f9-9e1c-43f4b547371f;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566171109874;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :FeelsMan
+8/18/2019 8:31:53 PM: botfumante - Received: @badge-info=;badges=moderator/1;color=#008000;display-name=TONYXZERO;emotes=;flags=;id=05ebd517-8fc1-4862-a730-e04711510bc4;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1566171112070;turbo=0;user-id=38731171;user-type=mod :tonyxzero!tonyxzero@tonyxzero.tmi.twitch.tv PRIVMSG #beringelamilgrau :?? ?? peepoRun ?? ??
+8/18/2019 8:32:03 PM: botfumante - Received: @badge-info=;badges=vip/1;color=#008000;display-name=Hisaagi;emotes=;flags=;id=24dd31d6-beb7-400c-aa15-c59b60bba17c;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1566171121672;turbo=0;user-id=137774469;user-type= :hisaagi!hisaagi@hisaagi.tmi.twitch.tv PRIVMSG #beringelamilgrau :?? ?? peepoRun ?? ??
+8/18/2019 8:32:07 PM: botfumante - Received: @badge-info=subscriber/2;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=9fde34e9-91c5-476e-8888-4b81aee9203e;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1566171125352;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :meu bot que roubou o som FeelsOkayMan
+8/18/2019 8:32:13 PM: botfumante - Received: @badge-info=;badges=moderator/1;color=#008000;display-name=TONYXZERO;emotes=;flags=;id=99c78fa1-8cdf-48a4-b00b-722151c381e9;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1566171131980;turbo=0;user-id=38731171;user-type=mod :tonyxzero!tonyxzero@tonyxzero.tmi.twitch.tv PRIVMSG #beringelamilgrau :!tiro

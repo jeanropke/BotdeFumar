@@ -1,0 +1,32 @@
+2019-08-01 6:20:20 PM: botfumante - Connecting to: wss://irc-ws.chat.twitch.tv:443
+2019-08-01 6:20:21 PM: botfumante - Should be connected!
+2019-08-01 6:20:21 PM: botfumante - Joining channel: beringelamilgrau
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv 001 botfumante :Welcome, GLHF!
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv 002 botfumante :Your host is tmi.twitch.tv
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv 003 botfumante :This server is rather new
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv 004 botfumante :-
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv 375 botfumante :-
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv 372 botfumante :You are in a maze of twisty passages, all alike.
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv 376 botfumante :>
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+2019-08-01 6:20:21 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+2019-08-01 6:20:21 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+2019-08-01 6:20:21 PM: botfumante - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+2019-08-01 6:20:21 PM: botfumante - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+2019-08-01 6:20:21 PM: botfumante - Received: :botfumante!botfumante@botfumante.tmi.twitch.tv JOIN #beringelamilgrau
+2019-08-01 6:20:21 PM: botfumante - Received: :botfumante.tmi.twitch.tv 353 botfumante = #beringelamilgrau :botfumante
+2019-08-01 6:20:21 PM: botfumante - Received: :botfumante.tmi.twitch.tv 366 botfumante #beringelamilgrau :End of /NAMES list
+2019-08-01 6:20:21 PM: botfumante - Finished channel joining queue.
+2019-08-01 6:20:21 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+2019-08-01 6:20:21 PM: botfumante - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+2019-08-01 6:20:22 PM: botfumante - Finished channel joining queue.
+2019-08-01 6:20:22 PM: botfumante - Received: @badge-info=;badges=;color=;display-name=BotFumante;emote-sets=0;mod=0;subscriber=0;user-type= :tmi.twitch.tv USERSTATE #beringelamilgrau
+2019-08-01 6:20:22 PM: botfumante - Received: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+2019-08-01 6:20:22 PM: botfumante - Unaccounted for: @msg-id=msg_ratelimit :tmi.twitch.tv NOTICE #beringelamilgrau :Your message was not sent because you are sending messages too quickly.
+2019-08-01 6:20:26 PM: botfumante - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=acb74760-169e-4358-ad3e-d2765fbbfac8;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564694425820;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :monkaHmm
+2019-08-01 6:20:32 PM: botfumante - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=48d4c38d-7dbe-498a-9129-03b85abefeec;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564694431325;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :nao fiz nada
+2019-08-01 6:20:32 PM: botfumante - Received: @badge-info=;badges=vip/1,premium/1;color=#D8FF00;display-name=guillapre;emotes=;flags=;id=a1086a97-ef8d-4e4f-b104-da6849b478fb;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1564694431486;turbo=0;user-id=157919745;user-type= :guillapre!guillapre@guillapre.tmi.twitch.tv PRIVMSG #beringelamilgrau :to falando do tiro mens
+2019-08-01 6:20:35 PM: botfumante - Received: @badge-info=;badges=vip/1,premium/1;color=#D8FF00;display-name=guillapre;emotes=;flags=;id=dc19839a-3945-4b50-8616-4a9ca885d7e7;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1564694434185;turbo=0;user-id=157919745;user-type= :guillapre!guillapre@guillapre.tmi.twitch.tv PRIVMSG #beringelamilgrau :ahm
+2019-08-01 6:20:37 PM: botfumante - Received: @badge-info=;badges=vip/1,premium/1;color=#D8FF00;display-name=guillapre;emotes=;flags=;id=b14a1185-c9d3-4e14-8e3e-ff06dcb2aada;mod=0;room-id=443063688;subscriber=0;tmi-sent-ts=1564694436676;turbo=0;user-id=157919745;user-type= :guillapre!guillapre@guillapre.tmi.twitch.tv PRIVMSG #beringelamilgrau :peepoSmart
+2019-08-01 6:20:41 PM: botfumante - Received: @badge-info=subscriber/1;badges=vip/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emotes=;flags=;id=f8e1e8eb-a79d-4008-ac57-3effd1fea34d;mod=0;room-id=443063688;subscriber=1;tmi-sent-ts=1564694440529;turbo=0;user-id=38479494;user-type= :jean__!jean__@jean__.tmi.twitch.tv PRIVMSG #beringelamilgrau :meu pc sabe fazer conta FeelsOkayMan

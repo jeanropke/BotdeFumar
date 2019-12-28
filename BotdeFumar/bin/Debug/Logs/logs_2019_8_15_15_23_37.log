@@ -1,0 +1,26 @@
+8/15/2019 3:23:37 PM: jean__ - Connecting to: wss://irc-ws.chat.twitch.tv:443
+8/15/2019 3:23:38 PM: jean__ - Should be connected!
+8/15/2019 3:23:39 PM: jean__ - Joining channel: beringelamilgrau
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv 001 jean__ :Welcome, GLHF!
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv 002 jean__ :Your host is tmi.twitch.tv
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv 003 jean__ :This server is rather new
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv 004 jean__ :-
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv 375 jean__ :-
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv 372 jean__ :You are in a maze of twisty passages, all alike.
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv 376 jean__ :>
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/15/2019 3:23:39 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/membership
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/15/2019 3:23:39 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/commands
+8/15/2019 3:23:39 PM: jean__ - Received: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/15/2019 3:23:39 PM: jean__ - Unaccounted for: :tmi.twitch.tv CAP * ACK :twitch.tv/tags
+8/15/2019 3:23:39 PM: jean__ - Received: :jean__!jean__@jean__.tmi.twitch.tv JOIN #beringelamilgrau
+8/15/2019 3:23:39 PM: jean__ - Received: :jean__.tmi.twitch.tv 353 jean__ = #beringelamilgrau :jean__
+8/15/2019 3:23:39 PM: jean__ - Received: :jean__.tmi.twitch.tv 366 jean__ #beringelamilgrau :End of /NAMES list
+8/15/2019 3:23:39 PM: jean__ - Finished channel joining queue.
+8/15/2019 3:23:39 PM: jean__ - Received: @badge-info=subscriber/2;badges=moderator/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=1;subscriber=1;user-type=mod :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/15/2019 3:23:39 PM: jean__ - Received: @emote-only=0;followers-only=-1;r9k=0;rituals=0;room-id=443063688;slow=0;subs-only=0 :tmi.twitch.tv ROOMSTATE #beringelamilgrau
+8/15/2019 3:23:40 PM: jean__ - Finished channel joining queue.
+8/15/2019 3:23:47 PM: jean__ - Received: @badge-info=subscriber/2;badges=moderator/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=1;subscriber=1;user-type=mod :tmi.twitch.tv USERSTATE #beringelamilgrau
+8/15/2019 3:23:48 PM: jean__ - Received: @badge-info=;badges=moderator/1,partner/1;color=#7C7CE1;display-name=Nightbot;emotes=;flags=;id=8f426011-7a9b-45db-9046-fc226e56be51;mod=1;room-id=443063688;subscriber=0;tmi-sent-ts=1565893427540;turbo=0;user-id=19264788;user-type=mod :nightbot!nightbot@nightbot.tmi.twitch.tv PRIVMSG #beringelamilgrau :Successfully modified entry #1
+8/15/2019 3:23:49 PM: jean__ - Received: @badge-info=subscriber/2;badges=moderator/1,subscriber/0,bits-charity/1;color=#5F9EA0;display-name=Jean__;emote-sets=0,412472,300319631;mod=1;subscriber=1;user-type=mod :tmi.twitch.tv USERSTATE #beringelamilgrau
